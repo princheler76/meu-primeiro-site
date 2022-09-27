@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+  body{
+   background-color: rgb(175, 33, 33);
+  }
+  h1{
+    color: yellow;
+    text-align: center;
+   font-size: 40px;
+  }
+  img{
+  height: 379px;
+  }
+  p{
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+  }
+  h2{
+    color:  yellow;
+    text-align: center;
+  }
+  </style>
+<body>
+  <h1>Chapolin</h1>
+  <img src="Design sem nome.png" alt="Chapolin">
+  <p>O Chapolin Colorado é um herói atrapalhado, medroso e desastrado,<br>
+     que sempre aparece quando alguém precisa. <br>
+     Com sua marreta biônica e a pílula <br>
+     encolhedora, ele, muitas vezes, provoca mais <br>
+     confusão do que necessariamente ajuda.<br>
+    </p>
+
+    <h2>"Não contavam com minha astúcia!"</h2>
+    <video width="320" height="240" controls>
+   <source src="video.mp4" type="video/mp4">
+    </video>
+</body>
+</html>
